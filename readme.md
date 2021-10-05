@@ -1,3 +1,5 @@
+# Github Users
+
 Currently broken
 but you should be able to enter a username and get a github user's information
 
